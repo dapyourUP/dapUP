@@ -11,7 +11,7 @@ In the project directory, you can run:
 ### `npm start`
 
 For a daUP project desccription please go to
-Open [https://explorer.execution.l16.lukso.network/address/0x4Ed332791874A58a4E0f01006D9CCF203a16AFDB/internal-transactions#address-tabs](dapUP Highlights) to view it in your browser.
+ [dapUP Highlights](https://explorer.execution.l16.lukso.network/address/0x4Ed332791874A58a4E0f01006D9CCF203a16AFDB/internal-transactions#address-tabs) to view it in your browser.
 
 
 
