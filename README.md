@@ -10,6 +10,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+## dapUP resources
+
 For a dapUP project description please go to
  [dapUP Highlights](https://github.com/dapyourUP/dapUP/blob/main/dapUPhighlights.pdf).
  
