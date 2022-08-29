@@ -1,12 +1,11 @@
 // List UP with check
-import React, { useContext, useState } from 'react';
+import React, { useContext } from 'react';
 import { Context } from '../index';
 import { observer } from 'mobx-react-lite';
 import ItemFavorites from '../components/ItemFavorites';
 
 const FavoriteUP = observer(() => {
   const { user } = useContext(Context);
-  const [np, setNp] = [useState(3)];
 
   return (
     <div className="conteiner mx-auto max-w-[800px]  ">
@@ -15,11 +14,6 @@ const FavoriteUP = observer(() => {
       </div>
       <div className="flex space-x-4 pt-5 justify-center">
         <ItemFavorites userIF={user} />
-      </div>
-      <div>
-        <p>{np}</p>
-        <button onClick={() => setNp(np + 1)}>Next|</button>
-        <button onClick={() => setNp(np - 1)}>Prev</button>
       </div>
     </div>
   );
