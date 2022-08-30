@@ -15,4 +15,6 @@ For a DapUP project description please go to
  
 A project intro can be found on [YouTube](https://www.youtube.com/watch?v=eF8DfRRavKo).
 
+## Contact
 
+Please contact us _via_ dapyourup@gmail.com
